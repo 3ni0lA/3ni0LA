@@ -13,4 +13,4 @@
 - 🌱 I’m currently learning the Baiscs of cloud Engineering (linux,docker, ansible, terraform,kubernetes,Aws services)
 - 😊 I’m looking for help with open source projects, internships, and entry-level opportunities.
 - 💼 Job interests: DevoOps Engineer, (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing devprecious@gmail.com.
+- 📫 You can contact me by emailing devprecious@gmail.com.
