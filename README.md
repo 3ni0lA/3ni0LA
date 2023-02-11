@@ -10,7 +10,7 @@
 
 - 😊 Pronouns: she/her
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning the Baiscs of cloud Engineering (linux,docker, ansible, terraform,kubernetes,Aws services)
+- 🌱 I’m currently learning the Basics of cloud Engineering (linux,docker, ansible, terraform,kubernetes,Aws services)
 - 😊 I’m looking for help with open source projects, internships, and entry-level opportunities.
 - 💼 Job interests: DevoOps Engineer, (Intern or Junior level).
 - 📫 You can contact me by emailing devprecious@gmail.com.
