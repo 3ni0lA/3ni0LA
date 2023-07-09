@@ -9,8 +9,8 @@
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: she/her
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 💡 Fun fact: I'm currently a graduate of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning the Basics of cloud Engineering (linux,docker, ansible, terraform,kubernetes,Aws services)
 - 😊 I’m looking for help with open source projects, internships, and entry-level opportunities.
-- 💼 Job interests: DevOps Engineer,cloud engineer, system administrator (Intern or Junior level).
+- 💼 Job interests: DevOps Engineer, Cloud engineer, System administrator (Intern or Junior level).
 - 📫 You can contact me by emailing devprecious@gmail.com.
