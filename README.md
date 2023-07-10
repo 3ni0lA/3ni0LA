@@ -14,3 +14,4 @@
 - 😊 I’m looking for help with open source projects, internships, and entry-level opportunities.
 - 💼 Job interests: DevOps Engineer, Cloud engineer, System administrator (Intern or Junior level).
 - 📫 You can contact me by emailing devprecious@gmail.com.
+- 😊 Fun facts about me: when i am not learning or building infrastructure for a website , i am watching anime, watching movies or series (preferably marvel series or k drama)  and listening to music.
