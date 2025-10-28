@@ -1,73 +1,122 @@
+# Hey there, I'm Eniola ✨
 
-```markdown
-# 🌸 Hello there, I’m Eniola — welcome to my corner of the pipeline ☁️  
-
-[![AltSchool Badge](https://img.shields.io/badge/-DevOps-6773E5?style=for-the-badge&logo=gitlab&logoColor=white)](https://altschoolafrica.com/schools/engineering)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adewale-eniola-4787a12b3/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/3ni0lA)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FFC0CB?style=for-the-badge&logo=notion&logoColor=black)](https://garrulous-caper-087.notion.site/My-Website-3e3f7129829241fb983246a3b9573c11?pvs=4)
-
----
-
-### 👩🏾‍💻 About Me
-I’m **Eniola Adewale**, a **DevOps Engineer** and **Automation Specialist at Upskayl**, turning chaos into CI/CD clarity and keeping systems calm under pressure.  
-
-I build, automate, and optimize — with a focus on elegant pipelines, resilient deployments, and infrastructure that doesn’t break when you sneeze. 😌
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=DevOps+Engineer;Cloud+Infrastructure+Specialist;Automation+Enthusiast)](https://git.io/typing-svg)
+  
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devprecious@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eniola-adewale-4787a12b3/)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/3ni0LA)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/My-Website-3e3f7129829241fb983246a3b9573c11)
+  
+</div>
 
 ---
 
-### 🧭 What I Do
-- ⚙️ **CI/CD Pipelines** — Jenkins, GitHub Actions, AWS CodePipeline  
-- 🧩 **Infrastructure Automation** — Terraform, Ansible  
-- 🐳 **Containerization & Orchestration** — Docker, Kubernetes  
-- 🔒 **Security & Monitoring** — Fail2Ban, Slack Alerts, Email Notifications  
-- 🤖 **Automation Workflows** — Currently building smart, scalable systems at Upskayl  
+### 🌺 About Me 
+
+I'm a **DevOps & Cloud Engineer** passionate about building resilient infrastructure and automating everything that can be automated. Currently serving as an **Automation Specialist at Upskayl**, where I design and implement sophisticated automation workflows using GHL and n8n.
+
+After graduating from **[AltSchool Africa School of Engineering](https://altschoolafrica.com/schools/engineering)** (Class of 2022), I've been on an exciting journey through cloud infrastructure, CI/CD pipelines, and infrastructure automation. Now, I'm making my strategic comeback to DevOps engineering with enhanced skills and fresh perspectives.
+
+✨ **Quick facts about me:**
+- 😊 Pronouns: She/Her
+- 🎓 AltSchool Africa alumna, continuously learning and growing
+- 🌱 Currently mastering advanced Kubernetes, AWS Solutions Architecture & GitOps
+- 💼 Open to: DevOps Engineer, Cloud Engineer, System Administrator roles (Junior/Mid-level)
+- 🎌 When I'm not building infrastructure: watching anime, K-dramas, Marvel series, or vibing to music
 
 ---
 
-### 🧩 Current Focus
-> “The comeback is always stronger than the crash.”
+### 🚀 Current Focus
 
-I’m doubling down on DevOps mastery — refining the art of automation and pipeline design.  
-Currently diving deep into:  
-**Linux • Terraform • Jenkins • Ansible • Kubernetes • AWS • CI/CD Architecture**
+```yaml
+current_role:
+  position: Automation Specialist
+  company: Upskayl
+  focus: 
+    - Building n8n automation workflows
+    - Implementing GHL integrations
+    - Optimizing business processes
 
----
-
-### 🌸 Featured Projects
-| Project | Stack | Highlights |
-|----------|--------|------------|
-| [**AWS Node.js App Deployment**](https://github.com/3ni0lA/simple-nodeapp) | Terraform, AWS EC2, PM2 | IaC deployment with secure, scalable AWS infrastructure |
-| [**Socks Shop Microservice Deployment**](https://github.com/3ni0lA/sockapp) | Kubernetes, EKS, Terraform | Scalable microservice deployment using EKS and IaC |
-| [**Bucket List Tracker App**](https://github.com/3ni0lA/react-bucket-tracker) | React, AWS Amplify, DynamoDB | End-to-end deployment automation through AWS CI/CD |
-| [**Text-to-Speech Document Reader**](https://github.com/3ni0lA/text-to-speech) | Python, Hugging Face, NLP | Document-to-speech conversion — automation meets creativity |
-
----
-
-### 🎓 Education & Certifications
-🎓 **AltSchool Africa** — Diploma in Software Engineering  
-📜 Focused on **DevOps, Automation, and CI/CD Systems**
-
----
-
-### 💌 Let’s Connect
-- 📧 Email: [devprecious@gmail.com](mailto:devprecious@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/adewale-eniola-4787a12b3/)  
-- 🌐 [Portfolio](https://garrulous-caper-087.notion.site/My-Website-3e3f7129829241fb983246a3b9573c11?pvs=4)
-
----
-
-### 💫 Beyond the Shell
-When I’m not debugging YAML or wrangling Jenkins jobs, I’m:
-> 🌷 Anime, watching Marvel or K-dramas, or curating  lofi playlists that keep my code flowing.
-
----
-
-### 🦋 Motto
-> “Automate with purpose. Build with grace. Deploy with confidence.”
-
----
-
-_© 2025 — Eniola Adewale | DevOps Engineer_
+actively_learning:
+  - Advanced Kubernetes orchestration
+  - AWS Solutions Architecture
+  - GitOps & ArgoCD
+  - Infrastructure automation patterns
+  
+seeking: DevOps & Cloud Engineering opportunities
 ```
 
+---
+
+### 💻 Tech Stack
+
+<div align="center">
+
+| **☁️ Cloud Platforms** | **🔧 DevOps Tools** | **🤖 Automation** |
+|:---:|:---:|:---:|
+| ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=flat-square&logo=DigitalOcean&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) |
+| ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
+
+</div>
+
+---
+
+### ⚡ What I Bring to the Table
+
+- **🏗️ Infrastructure as Code** → Designing reproducible infrastructure with Terraform
+- **🔄 CI/CD Excellence** → Building robust pipelines with Jenkins, GitHub Actions & AWS CodePipeline  
+- **🐳 Container Orchestration** → Docker & Kubernetes for scalable microservices
+- **🤖 Process Automation** → Creating intelligent workflows with n8n, GHL, and Python
+- **🔐 Security First** → Implementing cloud security best practices & compliance
+- **📊 Observability** → Setting up monitoring & alerting for production systems
+
+---
+
+### 🌟 Recent Achievements
+
+> 💡 *Making impact through automation and optimization*
+
+- 🚀 Reduced deployment time by **50%** through CI/CD pipeline optimization
+- 🔒 Strengthened infrastructure security with fail2ban, SSL encryption & automated backups
+- ☁️ Deployed production-ready microservices on **AWS EKS** using Terraform
+- 📱 Built full-stack applications with **AWS Amplify**, DynamoDB & AppSync
+- 🔔 Implemented real-time monitoring with Slack & email notifications
+- 🎯 Automated MongoDB backups & MariaDB monitoring systems
+
+---
+
+### 📫 Let's Connect!
+
+<div align="center">
+
+I'm actively seeking opportunities as a **DevOps Engineer**, **Cloud Engineer**, or **System Administrator** where I can contribute my skills and passion for infrastructure automation.
+
+<br>
+
+**📧 Email:** devprecious@gmail.com  
+**💼 Open to:** Remote, Hybrid & On-site opportunities  
+**🌍 Location:** Nigeria  
+**✨ Interests:** Cloud Architecture • Automation • Infrastructure as Code • Continuous Learning
+
+</div>
+
+---
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=3ni0LA&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=3ni0LA&theme=dracula&hide_border=true&background=0D1117&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" width="49%" />
+  
+  <br>
+  
+  *"Currently building the future of infrastructure, one deployment at a time"* 🚀
+  
+  <br>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=3ni0LA&color=ff69b4&style=flat-square&label=Profile+Views)
+  
+  <sub>When I'm not automating deployments, you'll find me watching anime 🎌, diving into K-dramas 🇰🇷, or catching up on Marvel series 🦸‍♀️</sub>
+  
+</div>
