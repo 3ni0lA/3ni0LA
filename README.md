@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=DevOps+Engineer;Cloud+Infrastructure+Specialist;Automation+Enthusiast)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=DevOps+Engineer;Automation+Enthusiast)](https://git.io/typing-svg)
   
   [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devprecious@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eniola-adewale-4787a12b3/)
@@ -15,15 +15,15 @@
 
 ### 🌺 About Me 
 
-I'm a **DevOps & Cloud Engineer** passionate about building resilient infrastructure and automating everything that can be automated. Currently serving as an **Automation Specialist at Upskayl**, where I design and implement sophisticated automation workflows using GHL and n8n.
+I'm a **DevOps Engineer** passionate about building resilient infrastructure and automating everything that can be automated. Currently serving as an **Automation Specialist at Upskayl**, where I design and implement sophisticated automation workflows using GHL and n8n.
 
-After graduating from **[AltSchool Africa School of Engineering](https://altschoolafrica.com/schools/engineering)** (Class of 2022), I've been on an exciting journey through cloud infrastructure, CI/CD pipelines, and infrastructure automation. Now, I'm making my strategic comeback to DevOps engineering with enhanced skills and fresh perspectives.
+After graduating from **[AltSchool Africa School of Engineering](https://engineering.altschoolafrica.com/)** (Class of 2022), I've been on an exciting journey through cloud infrastructure, CI/CD pipelines, and infrastructure automation. Now, I'm making my strategic comeback to DevOps engineering with enhanced skills and fresh perspectives.
 
 ✨ **Quick facts about me:**
 - 😊 Pronouns: She/Her
 - 🎓 AltSchool Africa alumna, continuously learning and growing
 - 🌱 Currently mastering advanced Kubernetes, AWS Solutions Architecture & GitOps
-- 💼 Open to: DevOps Engineer, Cloud Engineer, System Administrator roles (Junior/Mid-level)
+- 💼 Dream Job: DevOps Engineer roles (Junior/Mid-level)
 - 🎌 When I'm not building infrastructure: watching anime, K-dramas, Marvel series, or vibing to music
 
 ---
@@ -42,10 +42,10 @@ current_role:
 actively_learning:
   - Advanced Kubernetes orchestration
   - AWS Solutions Architecture
-  - GitOps & ArgoCD
+  - GitOps 
   - Infrastructure automation patterns
   
-seeking: DevOps & Cloud Engineering opportunities
+seeking: DevOps Engineering opportunities
 ```
 
 ---
@@ -91,14 +91,14 @@ seeking: DevOps & Cloud Engineering opportunities
 
 <div align="center">
 
-I'm actively seeking opportunities as a **DevOps Engineer**, **Cloud Engineer**, or **System Administrator** where I can contribute my skills and passion for infrastructure automation.
+I'm actively seeking opportunities as a **DevOps Engineer**, where I can contribute my skills and passion for infrastructure automation.
 
 <br>
 
 **📧 Email:** devprecious@gmail.com  
-**💼 Open to:** Remote, Hybrid & On-site opportunities  
+**💼 Open to:** Remote & Hybrid opportunities  
 **🌍 Location:** Nigeria  
-**✨ Interests:** Cloud Architecture • Automation • Infrastructure as Code • Continuous Learning
+**✨ Interests:** DevOps Best Practices • Infrastructure Automation • CI/CD Excellence • Continuous Learning
 
 </div>
 
