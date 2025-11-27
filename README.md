@@ -24,7 +24,7 @@ After graduating from **[AltSchool Africa School of Engineering](https://enginee
 - 🎓 AltSchool Africa alumna, continuously learning and growing
 - 🌱 Currently mastering advanced Kubernetes, AWS Solutions Architecture & GitOps
 - 💼 Dream Job: DevOps Engineer roles (Junior/Mid-level)
-- 🎌 When I'm not building infrastructure: watching anime, K-dramas, Marvel series, or vibing to music
+- 🎌 When I'm not building infrastructure: watching anime, K-dramas, reading the word of God or vibing to music
 
 ---
 
@@ -117,6 +117,6 @@ I'm actively seeking opportunities as a **DevOps Engineer**, where I can contrib
   
   ![Profile Views](https://komarev.com/ghpvc/?username=3ni0LA&color=ff69b4&style=flat-square&label=Profile+Views)
   
-  <sub>When I'm not automating deployments, you'll find me watching anime 🎌, diving into K-dramas 🇰🇷, or catching up on Marvel series 🦸‍♀️</sub>
+  <sub>When I'm not automating deployments, you'll find me watching anime 🦸‍♀️</sub>
   
 </div>
