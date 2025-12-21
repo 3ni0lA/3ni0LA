@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=DevOps+Engineer;Automation+Enthusiast)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Cloud+Engineer;Automation+Enthusiast;Infrastructure)](https://git.io/typing-svg)
   
   [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devprecious@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eniola-adewale-4787a12b3/)
@@ -15,7 +15,7 @@
 
 ### 🌺 About Me 
 
-I'm a **DevOps Engineer** passionate about building resilient infrastructure and automating everything that can be automated. Currently serving as an **Automation Specialist at Upskayl**, where I design and implement sophisticated automation workflows using GHL and n8n.
+I'm a **Cloud Engineer** passionate about building resilient infrastructure and automating everything that can be automated. Currently serving as an **Automation Specialist at Upskayl**, where I design and implement sophisticated automation workflows using GHL and n8n.
 
 After graduating from **[AltSchool Africa School of Engineering](https://engineering.altschoolafrica.com/)** (Class of 2022), I've been on an exciting journey through cloud infrastructure, CI/CD pipelines, and infrastructure automation. Now, I'm making my strategic comeback to DevOps engineering with enhanced skills and fresh perspectives.
 
@@ -23,7 +23,7 @@ After graduating from **[AltSchool Africa School of Engineering](https://enginee
 - 😊 Pronouns: She/Her
 - 🎓 AltSchool Africa alumna, continuously learning and growing
 - 🌱 Currently mastering advanced Kubernetes, AWS Solutions Architecture & GitOps
-- 💼 Dream Job: DevOps Engineer roles (Junior/Mid-level)
+- 💼 Dream Job: Senior Cloud Engineer but right now i desire a mid level role as a Cloud Engineer
 - 🎌 When I'm not building infrastructure: watching anime, K-dramas, reading the word of God or vibing to music
 
 ---
@@ -42,10 +42,11 @@ current_role:
 actively_learning:
   - Advanced Kubernetes orchestration
   - AWS Solutions Architecture
-  - GitOps 
-  - Infrastructure automation patterns
+  - GitOps
+  - Infrastructure automation patterns\
+  - Cloud Security Best Practices
   
-seeking: DevOps Engineering opportunities
+seeking: Cloud Engineering opportunities
 ```
 
 ---
@@ -91,14 +92,14 @@ seeking: DevOps Engineering opportunities
 
 <div align="center">
 
-I'm actively seeking opportunities as a **DevOps Engineer**, where I can contribute my skills and passion for infrastructure automation.
+I'm actively seeking opportunities as a **Cloud Engineer**, where I can contribute my skills and passion for infrastructure automation.
 
 <br>
 
 **📧 Email:** devprecious@gmail.com  
 **💼 Open to:** Remote & Hybrid opportunities  
 **🌍 Location:** Nigeria  
-**✨ Interests:** DevOps Best Practices • Infrastructure Automation • CI/CD Excellence • Continuous Learning
+**✨ Interests:** Cloud and Devops Best Practices • Infrastructure Automation • CI/CD Excellence • Continuous Learning
 
 </div>
 
