@@ -7,7 +7,7 @@
   [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devprecious@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eniola-adewale-4787a12b3/)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/3ni0LA)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=netlify&logoColor=white)](https:/3niola-adewale-ec162a.netlify.app)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=netlify&logoColor=white)](https://3niola-adewale-ec162a.netlify.app/)
   
 </div>
 
