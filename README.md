@@ -15,15 +15,16 @@
 
 ### 🌺 About Me 
 
-I'm a **Cloud / DevOps Engineer** shipping real infrastructure with AWS, Terraform, Docker, and CI/CD. Currently serving as an **Automation Specialist at Upskayl**, where I design and implement sophisticated automation workflows using GHL and n8n.
+I'm a **Junior Cloud Engineer** transitioning deliberately into Cloud Architecture. I come from a DevOps and automation background : Terraform, Kubernetes, AWS, CI/CD, and 40+ automation workflows. Now I'm going deeper into cloud: understanding every service, every decision, and every tradeoff from the ground up.
 
-After graduating from **[AltSchool Africa School of Engineering](https://engineering.altschoolafrica.com/)** (Class of 2022), I've been on an exciting journey through cloud infrastructure, CI/CD pipelines, and infrastructure automation. Now, I'm making my strategic comeback to DevOps engineering with enhanced skills and fresh perspectives.
+I document everything I build. Not just what worked — but what broke and why.
+After graduating from **[AltSchool Africa School of Engineering](https://engineering.altschoolafrica.com/)** (Class of 2022), I've been on an exciting journey through cloud infrastructure, CI/CD pipelines, and infrastructure automation. Now, I'm making my strategic transition into Cloud engineering with enhanced skills and fresh perspectives.
 
 ✨ **Quick facts about me:**
 - 😊 Pronouns: She/Her
 - 🎓 AltSchool Africa alumna, continuously learning and growing
 - 🌱 Currently mastering advanced Kubernetes, AWS Solutions Architecture & GitOps
-- 💼 Dream Job: Senior Cloud Engineer but right now i desire a mid level role as a Cloud Engineer
+- 💼 **Long term goal:** Cloud Architect
 - 🎌 When I'm not building infrastructure: watching anime, K-dramas, reading the word of God or vibing to music
 
 ---
@@ -40,9 +41,9 @@ current_role:
     - Optimizing business processes
 
 actively_learning:
-  - Advanced Kubernetes orchestration
-  - AWS Solutions Architecture
-  - GitOps
+  - Building real applications and deploying them to AWS manually (no shortcuts)
+- Deepening AWS service knowledge across compute, networking, storage, and databases  
+  - Python: back to fundamentals, building toward application-level code
   - Infrastructure automation patterns\
   - Cloud Security Best Practices
   
@@ -99,7 +100,7 @@ I'm actively seeking opportunities as a **Cloud Engineer**, where I can contribu
 **📧 Email:** devprecious@gmail.com  
 **💼 Open to:** Remote & Hybrid opportunities  
 **🌍 Location:** Nigeria  
-**✨ Interests:** Cloud and Devops Best Practices • Infrastructure Automation • CI/CD Excellence • Continuous Learning
+**✨ Interests:** Cloud Best Practices • Infrastructure Automation• Continuous Learning
 
 </div>
 
@@ -112,12 +113,12 @@ I'm actively seeking opportunities as a **Cloud Engineer**, where I can contribu
   
   <br>
   
-  *"Currently building the future of infrastructure, one deployment at a time"* 🚀
+  *"Currently learning the fundamentals of cloud, one step at a time"* 🚀
   
   <br>
   
   ![Profile Views](https://komarev.com/ghpvc/?username=3ni0LA&color=ff69b4&style=flat-square&label=Profile+Views)
   
-  <sub>When I'm not automating deployments, you'll find me watching anime 🦸‍♀️</sub>
+  <sub>When I'm not learning about cloud or python, you'll find me watching anime 🦸‍♀️</sub>
   
 </div>
