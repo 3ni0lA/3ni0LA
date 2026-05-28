@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Cloud+Engineer;Devops+Engineer;Automation+Enthusiast;Infrastructure+Guru;She+Codes;She+Builds;She+Deploys)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Aspiring+Cloud+Engineer;The+Cloud+Diary;She+Documents)](https://git.io/typing-svg)
   
   [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devprecious@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eniola-adewale-4787a12b3/)
@@ -23,7 +23,7 @@ After graduating from **[AltSchool Africa School of Engineering](https://enginee
 ✨ **Quick facts about me:**
 - 😊 Pronouns: She/Her
 - 🎓 AltSchool Africa alumna, continuously learning and growing
-- 🌱 Currently mastering advanced Kubernetes, AWS Solutions Architecture & GitOps
+- 🌱 Currently learning the fundamental of cloud engineering ☁️ 
 - 💼 **Long term goal:** Cloud Architect
 - 🎌 When I'm not building infrastructure: watching anime, K-dramas, reading the word of God or vibing to music
 
